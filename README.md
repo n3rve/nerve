@@ -8,3 +8,9 @@ It is adapted from Bitcoin Core and other cryptocurrencies.
 
 A peer-to-peer game that would allow peers to dare other peers using a stablecoin.
 A stablecoin would mean no volatility, stable value and secure price or pegged to a real currency.
+
+### Links
+[Issues](issues_paper.md)
+[Fee](nerve_fee.md)
+[Frequently Asked Questions](faq.md)
+[License/Copying](COPYING)
