@@ -10,12 +10,11 @@ Powered by Nerve which is also an open source p2p digital currency, not favored 
 The Nerve Core software allows anyone to operate a node in the Nerve blockchain networks and uses the Scrypt hashing method for Proof of Work.
 It is adapted from Bitcoin Core and other cryptocurrencies.
 
-A peer-to-peer game that would allow peers to dare other peers using a stablecoin.
-
-A stablecoin would mean no volatility, stable value and secure price or pegged to a real currency.
+A peer-to-peer game that would allow peers to dare other peers using NERV.
 
 ### Links
 * [Issues](issues_paper.md)
 * [Fee](nerve_fee.md)
 * [Frequently Asked Questions](faq.md)
 * [License/Copying](COPYING)
+* [Game](https://github.com/n3rve/nerv)
